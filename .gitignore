@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+
+# Uncompressed geodatabases (commit only the .gdb.zip via LFS)
+*.gdb/
+
+# Internal working documents
+hakai_data_catalog_update.md

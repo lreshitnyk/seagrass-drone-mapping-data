@@ -1,0 +1,19 @@
+# Changelog
+
+All notable changes to this dataset will be documented in this file.
+
+## [1.0] - 2026-05-28
+
+### Added
+
+* Compressed geodatabase: CentralCoast_SeasonalDroneEelgrassPolygons.gdb.zip
+
+* Three data dictionaries (one per GDB layer) in the docs/ folder
+
+* Metadata PDF in the docs/ folder
+
+* README with project summary, citation, DOI, and links to associated resources
+
+* LICENSE (CC-BY-4.0)
+
+* CITATION.cff for machine-readable citation

@@ -1,0 +1,8 @@
+# Track zip files with Git LFS
+*.zip filter=lfs diff=lfs merge=lfs -text
+
+# Force LF line endings for text files
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.cff text eol=lf

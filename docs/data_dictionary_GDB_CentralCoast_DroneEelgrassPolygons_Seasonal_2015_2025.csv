@@ -1,0 +1,29 @@
+descriptive_name,variable_name,variable_description,units_or_categories
+File Name,filename,"Name of the shapefile. Naming convention is YYYYMMDD_Region_Site_eelgrass.shp",text
+Site name,name,Name of the survey site.,text
+Date of image acquisition,img_date,Date that image was acquired.,YYYY-MM-DD
+Region,region,Larger geographic region where eelgrass was mapped.,text
+Dataset Provider,data_prov,Name of institute providing data.,na
+Original image spatial resolution (m),img_res,Spatial resolution/cell size of the orthomosaic from which eelgrass was delineated.,meters
+Imagery Source,img_src,Sensor that was used for image collection.,"RPAS (remotely piloted aerial system), RGB (red, green, blue), MSS (multispectral sensor), TUV (towed underwater video)"
+Sensor name,sensor,Specific sensor or sensor type that was used for image collection.,na
+MOBE_ID,mobe,Hakai MOBE ID which links imagery to a specific mission.,na
+Dataset identification,data_ID,"Name of source image, or other ID that can be used to identify the dataset that the delineation was based on.",na
+Tide Height (m),tide_m,The tide height (chart datum) during image acquisition.,meters
+Description,descrip,"A description of what the polygon represents. Indicate as specifically as possible the name, model and source of the imagery. Indicate if more than one source of imagery was used, if data were collected on multiple days, etc.",na
+Habitat Type,habtype,Habitat type delineated - seagrass or kelp.,na
+Sharing,sharing,"Description of data sharing requirements. Public means it will be shown on the map. Not to be shared on webmap means exactly that. All datasets will require a request to be shared.",na
+Citation,cite,"List of authors, organizations for the citation of the data.",na
+Contact,contact,Who to contact for data sharing.,na
+Dataset DOI,DOI,DOI if dataset has one.,na
+Location,file_loc,Where the data (shapefile) are stored internally at Hakai Institute.,na
+Links,links,Link to metadata record or readme.,na
+Species,species,Name of species being delineated.,na
+Density,density,Density of habitat within each polygon.,"High, medium, low for eelgrass. High and low for kelp."
+Area,area_m,Areal extent of polygon.,meters squared
+Perimeter,perim_m,Perimeter length of the delineated extent.,meters
+Distribution,distrib,Pattern of eelgrass distribution within a polygon (used in eelgrass delineation only).,na
+Delineation method,delin_meth,Method used to delineate the polygons.,na
+Confidence,conf,Confidence of analyst about classification of that polygon.,"High, medium, low"
+Analyst,analyst,Initials of the analyst who did the delineation.,"LYR - Luba Yvanka Reshitnyk, TYM - Thea Yvonne Mai, AG - Alex Guyn"
+Notes,Notes,Additional comments from the analyst.,na

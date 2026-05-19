@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Reshitnyk"
+    given-names: "Luba"
+    orcid: "https://orcid.org/0000-0003-0282-724X"
+    affiliation: "Hakai Institute"
+  - family-names: "Guyn"
+    given-names: "Alex"
+    orcid: "https://orcid.org/[ALEX_ORCID]"
+    affiliation: "Hakai Institute"
+  - family-names: "Holmes"
+    given-names: "Keith"
+    orcid: "https://orcid.org/0000-0001-8796-8222"
+    affiliation: "Hakai Institute"
+  - family-names: "Mai"
+    given-names: "Thea"
+    affiliation: "Hakai Institute"
+title: "Eelgrass (Zostera marina) extent at sites along the Central Coast, British Columbia"
+version: 1.0.0
+doi: 10.21966/03pw-2190
+date-released: "2026-05-28"
+url: "https://github.com/HakaiInstitute/seagrass-drone-mapping-data"
+license: CC-BY-4.0
+keywords:
+  - eelgrass
+  - Zostera marina
+  - Zosteraceae
+  - seagrass
+  - nearshore
+  - habitat mapping
+  - drone
+  - RPAS
+  - geospatial
+  - British Columbia
+  - Central Coast
+  - Hakai Institute
