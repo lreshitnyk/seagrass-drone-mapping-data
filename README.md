@@ -5,9 +5,7 @@
 
 ## Summary
 
-This repository contains a time series of eelgrass (*Zostera marina*) meadow extent derived from remotely piloted aerial system (RPAS/drone) surveys along British Columbia's Central Coast, spanning 2015–2025.
-
-Surveys are conducted annually or biannually during low-tide windows at long-term Hakai Institute monitoring sites. High-resolution RGB orthomosaics are used to delineate eelgrass extent using object-based image analysis (OBIA) and manual GIS methods, with a minimum mapping unit of 4 m². Outputs are reviewed by trained analysts and delivered as vector polygon features in NAD83 UTM Zone 9N.
+This data package represents a time series of eelgrass (*Zostera marina*) meadow extent derived from remotely piloted aerial system (RPAS or drone) surveys, along with relevant metadata. RPAS surveys are conducted annually at long-term monitoring sites on the Central Coast of British Columbia, Canada. These data are collected as part of the Hakai Institute Habitat Mapping Program, whose broader goal is to document and understand long-term trends in eelgrass meadow dynamics and drivers at local, regional, and coast-wide scales. The Hakai Institute started using drones in 2015 as part of this work in order to capture site-level data on eelgrass distribution for long-term ecological research.
 
 ## Monitoring Sites
 
