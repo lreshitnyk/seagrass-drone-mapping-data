@@ -20,6 +20,8 @@ Core monitoring sites are mapped annually or biannually. Additional sites have b
 | McMullin North      | 52.061502°  | -128.413301°  | 
 | Superstition        | 51.893984°  | -128.234889°  | 
 
+**NOTE** Koeye had incomplete coverage in 2019 and McMulling North had incomplete coverage in 2022 (polygon vector features of coverage in those years is provided).
+
 ## Data
 
 Data are provided as a compressed geodatabase (`.gdb.zip`) in `data/`. The geodatabase contains:
