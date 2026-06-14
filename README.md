@@ -12,7 +12,7 @@ This data package represents a time series of eelgrass (*Zostera marina*) meadow
 Core monitoring sites are mapped annually or biannually. Additional sites have been mapped opportunistically or as part of shorter-term projects and are included in the dataset.
 
 | Site Name           | Latitude    | Longitude     | 
-|---------------------|-------------|---------------|-------------------|
+|---------------------|-------------|---------------|
 | Pruth Bay           | 51.645614°  | -128.119975°  | 
 | Choked Pass         | 51.673388°  | -128.118387°  | 
 | Koeye               | 51.780988°  | -127.869248°  | 
@@ -31,7 +31,8 @@ Data dictionaries for each layer are provided as CSV files in `docs/`.
 
 ## Methods
 
-RPAS surveys are conducted annually during morning low tides (winds < 19 kt, no rain) using a small, commercially available drone (DJI Phantom 3 Pro, DJI Phantom 4 Pro, DJI Mavic 3E). Imagery is collected following automated grid flight plans (Pix4D Capture App, Map Pilot, or DJI Go 4) to ensure complete site coverage with sufficient photo overlap. Flight altitude is set to maximise detail and meet ground sampling distance (GSD) specifications.
+RPAS surveys are conducted annually during morning low tides (winds < 19 kt, no rain) using a small, commercially available drones. Imagery is collected following automated grid flight plans to ensure complete site coverage with sufficient photo overlap. Drone flights are conducted at heights typically ranging from 95-120 m (above surface level) to ensure proper coverage of terrestrial features to generate accurate orthomosaics. These flight heights also ensure that flights are within the range allowed with a Basic Operations Pilot Certificate. In some cases, flights are conducted at higher altitudes under a Special Flight Operations Certificate. All flights are conducted at tide levels below 1 m (chart datum) in order to improve mapping of the subtidal edge.
+
 
 Orthomosaics are generated using a Structure from Motion Multi-View Stereo (SfM-MVS) workflow (Pix4Dmapper, DroneDeploy, or Agisoft Metashape Pro) and georeferenced using ground control points collected during the survey or co-registered to a reference orthomosaic.
 
