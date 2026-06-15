@@ -1,4 +1,4 @@
-# Time Series of Eelgrass (*Zostera marina*) Extent Derived from Drone Surveys, Central Coast, British Columbia
+# Time series of eelgrass (Zostera marina) meadow extent derived from drone surveys, Central Coast, British Columbia (ongoing)
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://img.shields.io/badge/DOI-10.21966%2F03pw--2190-blue)](https://doi.org/10.21966/03pw-2190)
@@ -46,7 +46,7 @@ Areal extent data are provided as vector polygon features in NAD83 UTM Zone 9N, 
 
 If you use this dataset, please cite:
 
-> Reshitnyk, L., Guyn, A., Holmes, K., & Mai, T. (2026). Eelgrass (*Zostera marina*) extent at sites along the Central Coast, British Columbia. Hakai Institute. https://doi.org/10.21966/03pw-2190
+> Reshitnyk, L., Guyn, A., Holmes, K., & Mai, T. (2026). Time series of eelgrass (Zostera marina) meadow extent derived from drone surveys, Central Coast, British Columbia. https://doi.org/10.21966/03pw-2190
 
 A `CITATION.cff` file is included for machine-readable citation.
 
